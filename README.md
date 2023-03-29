@@ -1,1 +1,1 @@
-Add TF SavedModel Docs Integrations Page (#9162)
+Add Amazon Sagemaker Docs integrations page (#7293)
