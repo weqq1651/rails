@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
