@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+Update the heatmap module code + docs (#7045)
