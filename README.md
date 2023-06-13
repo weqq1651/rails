@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
