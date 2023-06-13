@@ -1,1 +1,1 @@
-Object Counter improvements (#8648)
+Fix Multi-GPU resume bug (#7328)
