@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+Updating a typo on paddlepaddle.md (#9108)
