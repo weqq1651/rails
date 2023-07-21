@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+New test for labels and crops (#8861)
