@@ -1,1 +1,1 @@
-fix predict with class filter
+Update HTTP to HTTPS (#7548)
