@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+Segment TensorRT batch=3 fix (#7952)
