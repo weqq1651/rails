@@ -1,1 +1,1 @@
-ultralytics 8.0.227 respect defaults.yaml data (#6935)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
