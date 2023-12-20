@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+ADD | opnecv c++ Onnx integration (#70)
