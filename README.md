@@ -1,1 +1,1 @@
-Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
+Fix IS_PYTHON_3_12 bug (#9258)
