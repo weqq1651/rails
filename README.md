@@ -1,1 +1,1 @@
-Resize angle, count, and stage on keypoint number change (#7598)
+Docs updates: Add Explorer to tab, YOLOv5 in Guides and Usage in Quickstart (#7438)
