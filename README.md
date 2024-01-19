@@ -1,1 +1,1 @@
-Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
+ultralytics 8.1.10 MLFlow, OBB, TFLite and INT8 fixes (#8016)
