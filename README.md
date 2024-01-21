@@ -1,1 +1,1 @@
-ultralytics 8.1.10 MLFlow, OBB, TFLite and INT8 fixes (#8016)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
