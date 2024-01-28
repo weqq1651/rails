@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Add instance segmentation and vision-eye mapping in Docs + Fix minor code bug in other real-world-projects (#6972)
