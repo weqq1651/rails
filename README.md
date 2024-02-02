@@ -1,1 +1,1 @@
-Add instance segmentation and vision-eye mapping in Docs + Fix minor code bug in other real-world-projects (#6972)
+ultralytics 8.0.227 respect defaults.yaml data (#6935)
