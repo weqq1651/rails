@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+fix predict with class filter
