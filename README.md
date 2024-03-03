@@ -1,1 +1,1 @@
-Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
+Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
