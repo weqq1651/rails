@@ -1,1 +1,1 @@
-ultralytics 8.0.223 add YOLOv8-Ghost P2 and P6 variants (#6826)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
