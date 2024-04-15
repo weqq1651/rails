@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+ultralytics 8.1.20 add YOLOv8x-World support (#8539)
