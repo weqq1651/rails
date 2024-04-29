@@ -1,1 +1,1 @@
-Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
+Add dota8.yaml and O tests (#7394)
