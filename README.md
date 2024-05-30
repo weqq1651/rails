@@ -1,1 +1,1 @@
-Update fraction arg to employ a random selection (#8234)
+ultralytics 8.0.228 add training time argument (#7054)
