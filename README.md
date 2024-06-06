@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Update fraction arg to employ a random selection (#8234)
