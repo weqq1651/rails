@@ -1,1 +1,1 @@
-YOLOv8 INT8 TFLite Inference Example (#7317)
+Fixed RTDETR GFLOPs bug (#7309)
