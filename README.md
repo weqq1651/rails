@@ -1,1 +1,1 @@
-fix resume training
+Capitalize OBB acronym (#7383)
