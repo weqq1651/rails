@@ -1,1 +1,1 @@
-Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
+Add docs guide terminal images (#8819)
