@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Fixed RTDETR GFLOPs bug (#7309)
