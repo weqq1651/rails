@@ -1,1 +1,1 @@
-OBB Docs updates (#7568)
+Compress docs images (#8124)
