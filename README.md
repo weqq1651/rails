@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
