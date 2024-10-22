@@ -1,1 +1,1 @@
-Replacing Images for torchscript.md (#8596)
+fix yolo classify model loading error (#9196)
