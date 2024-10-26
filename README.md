@@ -1,1 +1,1 @@
-fix yolo classify model loading error (#9196)
+Update H1 in Explorer API docs (#7813)
